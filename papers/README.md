@@ -9,10 +9,12 @@ The `papers` folder is the heart of the repository, containing a collection of r
 ### 1. **Architectures**
 **Explore groundbreaking innovations in LLM design!**
 - Dive into the evolution of transformer models and explore how attention mechanisms revolutionized NLP.
-- Papers in this folder cover:
-  - Transformer architectures.
-  - Neural network layers and design strategies.
-  - Efficiency improvements in attention mechanisms.
+- Papers in this folder cover four main arhitectures:
+-Encoder decoder architecture
+-Casual decoder architecture
+-Prefix decoder architecture (non-casual decoder)
+-Mixture of expert (MoE)
+
 
 ### 2. **Evaluation**
 **Understand how LLMs are assessed across NLP benchmarks.**
