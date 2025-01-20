@@ -40,17 +40,15 @@ This repository is open for collaboration, contribution, and feedback from anyon
 
 ---
 
-## 📊 **Visual Aids** in the Repository
+## 📊 **Visual Aids** in the Repository , assets folder
 
 ### 📍 **Taxonomy of LLMs**
 Understanding how everything fits together in the world of LLMs is easier with a clear breakdown. Check out our **LLM Taxonomy Figure**, which organizes the various subfields and models.
 
-![Taxonomy](assets/taxonomy-figure.png)
 
 ### 📝 **PRISMA Methodology Diagram**
 We've used the **PRISMA methodology** to ensure a comprehensive review process. This diagram outlines how we selected the key papers and sources for this repository.
 
-![PRISMA Diagram](https://github.com/graduationproject489/LLM-Foundations-Study/blob/main/Assets/prisma-diagram.png)
 
 ---
 
