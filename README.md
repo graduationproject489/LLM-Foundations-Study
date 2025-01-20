@@ -50,7 +50,7 @@ Understanding how everything fits together in the world of LLMs is easier with a
 ### 📝 **PRISMA Methodology Diagram**
 We've used the **PRISMA methodology** to ensure a comprehensive review process. This diagram outlines how we selected the key papers and sources for this repository.
 
-![PRISMA Diagram](assets/prisma-diagram.png)
+![PRISMA Diagram](https://github.com/graduationproject489/LLM-Foundations-Study/blob/main/Assets/prisma-diagram.png)
 
 ---
 
