@@ -18,7 +18,7 @@ This repository is structured to make it easier for you to find relevant researc
   - **[architectures](papers/architectures/)**: Explore papers on transformer architecture, attention mechanisms, and neural network layers.
   - **[evaluation](papers/evaluation/)**: Find studies covering various metrics, benchmarks, and evaluation strategies for LLMs.
   - **[models](papers/models/)**: Dive into detailed papers about specific LLMs like GPT, BERT, T5, and more.
-  - **[llm foundation](papers/llm-foundation/)**: Comprehensive papers that discuss the foundational aspects of LLM technology and its progress over time.
+  - **[LLM foundation](papers/llm-foundation/)**: Comprehensive papers that discuss the foundational aspects of LLM technology and its progress over time.
 
 - **[assets](assets/)**: The supporting visuals and materials for deeper understanding.
   - **Taxonomy Figure**: A visual breakdown of the LLM ecosystem.
