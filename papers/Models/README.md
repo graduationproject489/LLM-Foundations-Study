@@ -63,13 +63,14 @@ The **Models** folder contains research papers dedicated to specific **Large Lan
 19. **[Genetic Transformer: An Innovative Large Language Model Driven Approach for Rapid and Accurate Identification of Causative Variants in Rare Genetic Diseases](<https://www.medrxiv.org/content/10.1101/2024.07.18.24310666v1.full.pdf>)**  
     - This paper presents an innovative use of LLMs for identifying genetic variants related to rare diseases. It explores how transformer-based models accelerate the discovery process by analyzing large sets of genomic data.
 
+20. **[GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](<[https://www.medrxiv.org/content/10.1101/2024.07.18.24310666v1.full.pdf](https://proceedings.mlr.press/v162/du22c.html)>)**  
+    - This paper propose and develop a family of language models named GLaM (Generalist Language Model), which uses a sparsely activated mixture-of-experts architecture to scale the model capacity while also incurring substantially less training cost compared to dense variants.
 ---
 
 ### **Why These Papers?**
 
 This collection showcases a wide array of papers dedicated to specific LLMs, providing insight into the pretraining, architecture, scalability, and real-world applications of models ranging from BERT to GPT-4, and beyond. Whether you’re interested in applying LLMs for conversational AI or exploring cutting-edge innovations, these studies provide essential information to drive your work forward.
 
----
 
 
 ---
