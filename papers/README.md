@@ -37,6 +37,20 @@ The `papers` folder is the heart of the repository, containing a collection of r
   - Historical progression of LLM architectures.
   - Challenges and trends in scaling LLMs.
 
+  ### 4. **LLM training**
+**Explore the theoretical and historical groundwork of LLM technology.**
+- Comprehensive surveys and reviews training different LLMs.
+- Includes resources on:
+  - How LLMs are trained.
+  
+    
+### 4. **LLM saftey**
+**Explore the theoretical of LLM saftey asspects.**
+- Comprehensive surveys and reviews summarizing saftey and trustiworthness.
+- Includes resources on:
+- LLM safty.
+- LLM trustworthness.
+
 ---
 
 ## **How to Use This Folder**
