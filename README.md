@@ -19,7 +19,9 @@ This repository is structured to make it easier for you to find relevant researc
   - **[evaluation](papers/evaluation/)**: Find studies covering various metrics, benchmarks, and evaluation strategies for LLMs.
   - **[models](papers/models/)**: Dive into detailed papers about specific LLMs like GPT, BERT, T5, and more.
   - **[LLM foundation](papers/llm-foundation/)**: Comprehensive papers that discuss the foundational aspects of LLM technology and its progress over time.
-
+  - **[LLM Training](papers/llm-foundation/)**: papers that discuss the foundational aspects of LLM training paradigms.
+  - - **[LLM saftey](papers/llm-foundation/)**: Comprehensive papers that discuss the foundational aspects of LLM saftey.
+      
 - **[assets](assets/)**: The supporting visuals and materials for deeper understanding.
   - **Taxonomy Figure**: A visual breakdown of the LLM ecosystem.
   - **PRISMA Diagram**: A graphical representation of the systematic review methodology.
