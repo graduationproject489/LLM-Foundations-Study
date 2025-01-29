@@ -6,7 +6,7 @@ The **Architectures** folder contains research papers that dive into the differe
 
 ### **Included Papers**
 
-1. **[Attention Is All You Need](<link-to-paper>)**  
+1. **[Attention Is All You Need](<https://user.phil.hhu.de/~cwurm/wp-content/uploads/2020/01/7181-attention-is-all-you-need.pdf>)**  
    - This paper introduced the **Transformer Architecture**, a groundbreaking approach in deep learning that uses self-attention mechanisms instead of recurrence or convolutions to process sequences. The transformer has become the basis for many advanced LLMs such as GPT and BERT. This paper explains the core ideas behind attention mechanisms and how they revolutionized language modeling.
 
 2. **[Prefix-Tuning: Optimizing Continuous Prompts for Generation](<link-to-paper>)**  
