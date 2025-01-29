@@ -71,8 +71,8 @@ If you use this repository for your research or learning, please consider citing
 
 ```markdown
 @misc{llm_foundations_study,
-  author = {Your Name},
+  author = {Enas Adil , Hibba Abbas, Fadida Mohammed, Arafa Khalifa},
   title = {LLM Foundations Study Repository},
   year = {2025},
-  url = {https://github.com/<your-username>/LLM-Foundations-Study},
+  url = {https://github.com/graduationproject489/LLM-Foundations-Study},
 }
