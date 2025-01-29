@@ -5,10 +5,10 @@ The *LLM Safety* folder contains research papers focused on ensuring the safety,
 
 #### **Included Papers**  
 
-1. **[A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation](#)**  
+1. **[A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation](<https://link.springer.com/content/pdf/10.1007/s10462-024-10824-0.pdf>)**  
    - Provides an in-depth review of safety concerns in LLMs, discussing verification and validation techniques for ensuring robust and trustworthy models.  
 
-2. **[Trustworthy LLMs: A Survey and Guideline for Evaluating Large Language Models’ Alignment](#)**  
+2. **[Trustworthy LLMs: A Survey and Guideline for Evaluating Large Language Models’ Alignment](<https://arxiv.org/pdf/2308.05374>)**  
    - Examines the alignment of LLMs with ethical and safety principles, offering guidelines for evaluating and improving model trustworthiness.  
 
 #### **Purpose of This Subfolder**  
